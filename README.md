@@ -17,3 +17,9 @@ to eat: ”Philosopher < thread id > eats using forks < fork no x > and <
 fork no y >. The simulation keeps running in an infinite loop. Then, use
 my semaphore to avoid any possible deadlocks. You may also implement nonblocking variants of wait() and signal() using the non-blocking functions
 available in the Pthreads library. </p>
+
+## To Compile:
+<pre><code>make </code></pre>
+
+## To execute:
+<pre><code>./main</code></pre>
